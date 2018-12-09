@@ -1,2 +1,1 @@
-# JATP
-just another test project
+# Just Another TEST Project
