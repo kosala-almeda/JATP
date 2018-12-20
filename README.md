@@ -1,7 +1,4 @@
-# jatp
-
-Just Another TEST Project
-
+# Just Another TEST Project
 
 ..
 
